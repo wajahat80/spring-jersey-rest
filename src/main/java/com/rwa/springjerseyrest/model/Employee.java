@@ -1,4 +1,4 @@
-package com.rwa.demospringreact.model;
+package com.rwa.springjerseyrest.model;
 
 public class Employee {
 

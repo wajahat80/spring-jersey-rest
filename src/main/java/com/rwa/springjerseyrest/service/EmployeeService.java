@@ -1,8 +1,8 @@
-package com.rwa.demospringreact.service;
+package com.rwa.springjerseyrest.service;
 
 import java.util.List;
 
-import com.rwa.demospringreact.model.Employee;
+import com.rwa.springjerseyrest.model.Employee;
 
 /*
  * A very good example for using service and pagination

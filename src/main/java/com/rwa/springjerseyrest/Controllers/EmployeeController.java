@@ -1,4 +1,4 @@
-package com.rwa.demospringreact.Controllers;
+package com.rwa.springjerseyrest.Controllers;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -7,8 +7,8 @@ import javax.ws.rs.Produces;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
-import com.rwa.demospringreact.model.Employee;
-import com.rwa.demospringreact.service.EmployeeService;
+import com.rwa.springjerseyrest.model.Employee;
+import com.rwa.springjerseyrest.service.EmployeeService;
 
 @Controller
 @Path("/employee")

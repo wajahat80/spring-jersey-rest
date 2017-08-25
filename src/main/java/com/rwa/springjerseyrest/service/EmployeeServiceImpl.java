@@ -1,4 +1,4 @@
-package com.rwa.demospringreact.service;
+package com.rwa.springjerseyrest.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 //import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.Assert;
 
-import com.rwa.demospringreact.model.Employee;
+import com.rwa.springjerseyrest.model.Employee;
 
 //@Component("employeeService")
 //@Transactional
