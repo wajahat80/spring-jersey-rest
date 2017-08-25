@@ -1,4 +1,4 @@
-package com.rwa.demospringreact;
+package com.rwa.springjerseyrest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
