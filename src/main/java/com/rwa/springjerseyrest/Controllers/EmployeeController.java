@@ -21,10 +21,11 @@ public class EmployeeController {
 	
 	
     @GET
-    @Produces("application/json")
+    @Produces("application/*")
     public Employee health() {
+    	System.out.println("RESTful Service: Inside method");
         return employeeService.getEmployee(1L);
     }
     
-   
+
 }
